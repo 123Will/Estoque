@@ -1,0 +1,7 @@
+D:\Projetos\Estrutura-Decisão\Projeto3\Projeto3\bin\Debug\Projeto3.exe.config
+D:\Projetos\Estrutura-Decisão\Projeto3\Projeto3\bin\Debug\Projeto3.exe
+D:\Projetos\Estrutura-Decisão\Projeto3\Projeto3\bin\Debug\Projeto3.pdb
+D:\Projetos\Estrutura-Decisão\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.AssemblyReference.cache
+D:\Projetos\Estrutura-Decisão\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+D:\Projetos\Estrutura-Decisão\Projeto3\Projeto3\obj\Debug\Projeto3.exe
+D:\Projetos\Estrutura-Decisão\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
